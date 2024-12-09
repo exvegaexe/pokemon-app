@@ -1,9 +1,6 @@
 <template>
   <div class="container my-4">
 
-<h1>TITLE TEST</h1>
-
-<h1>TITLE TEST 2</h1>
     <!--logo-->
     <div class="text-center mb-4">
       <img src="../assets/img/logo.png" alt="Pokémon Logo" class="img-fluid" />
