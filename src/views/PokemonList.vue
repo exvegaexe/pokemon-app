@@ -2,6 +2,7 @@
   <div class="container my-4">
 
     <!--logo-->
+    <!--logo-->
     <div class="text-center mb-4">
       <img src="../assets/img/logo.png" alt="Pokémon Logo" class="img-fluid" />
     </div>
